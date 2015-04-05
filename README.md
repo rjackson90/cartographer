@@ -1,6 +1,6 @@
 Cartographer
 ------------
-
+[![Build Status](https://travis-ci.org/rjackson90/cartographer.svg?branch=dev)](https://travis-ci.org/rjackson90/cartographer)
 ##Introduction
 Cartographer is a stand-alone program used to procedurally generate tile-based maps for 2D games.
 Initial work is focused around Pokemon-style maps where there is a limited number of clear paths
