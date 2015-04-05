@@ -1,0 +1,15 @@
+name:           cartographer
+version:        0.1.0
+synopsis:       A command-line tool to procedurally generate maps from sets of tiles
+homepage:       https://github.com/rjackson90/cartographer
+license:        AllRightsReserved
+author:         Richard Jackson
+maintainer:     rjackson90@gmail.com
+category:       Game
+build-type:     Simple
+cabal-version:  >=1.8
+
+executable b29-helper
+    main-is:        Main.hs
+    ghc-options:    -threaded -with-rtsopts=-N -rtsopts
+    build-depends:  gloss 
