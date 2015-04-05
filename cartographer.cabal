@@ -2,7 +2,7 @@ name:           cartographer
 version:        0.1.0
 synopsis:       A command-line tool to procedurally generate maps from sets of tiles
 homepage:       https://github.com/rjackson90/cartographer
-license:        AllRightsReserved
+license:        MIT
 author:         Richard Jackson
 maintainer:     rjackson90@gmail.com
 category:       Game
